@@ -26,7 +26,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [SK Innovation Project](http://belial0.dothome.co.kr/innovation)
+### 1. [SK Innovation Project](http://belial0.dothome.co.kr/innovation) (깃허브는 추후 업로드 예정 :joy:)
 > - 참여 인원 : 1명
 > - 개발 기간 : 2021.09.01 ~ 2021.10.29
 > - 개발 과정 : 실무과정을 수강하면서 제작한 프로젝트입니다. 엔드유저의 시선으로 제작했으며 이미지와 영상을 많이 사용하게 되어
